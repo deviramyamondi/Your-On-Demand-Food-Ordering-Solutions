@@ -1,0 +1,21 @@
+# Your On Demand Food Ordering Solutions
+
+A full-stack online food ordering web application built using React.js, Node.js, Express.js, and MongoDB.
+
+## Features
+- User Login & Signup
+- Browse Restaurants
+- Browse Food Items
+- Add to Cart
+- Place Orders
+- Admin Dashboard
+
+## Technologies
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JWT
+- HTML
+- CSS
+- JavaScript
